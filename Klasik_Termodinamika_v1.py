@@ -83,15 +83,15 @@ HISTORY_LAGS = 2
 
 FILES = (
     (
-        Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86.csv"),
+        Path("/data/loto7_4710_k86.csv"),
         4710,
     ),
     (
-        Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_2977.csv"),
+        Path("/data/loto7_4710_k86_loto_2977.csv"),
         2977,
     ),
     (
-        Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_plus_1733.csv"),
+        Path("/data/loto7_4710_k86_loto_plus_1733.csv"),
         1733,
     ),
 )
@@ -1936,7 +1936,7 @@ Energija, slobodna energija i entropija pripadaju matematičkom modelu.
 Modelna verovatnoća nije potvrđena verovatnoća stvarnog izvlačenja.
 
 CSV: loto7_4710_k86.csv
-NEXT: 08 11 22 23 26 34 37
+NEXT: 08 x 22 y 26 z 37
 Izabrani domet interakcije: 2
 Izabrana regularizacija: 3.0
 Validacioni NLL: 16.54839546
@@ -1953,7 +1953,7 @@ Zbir uključnih verovatnoća: 7.000000000000
 Promena uključnih verovatnoća kroz kontekst: 1.534182e-04
 
 CSV: loto7_4710_k86_loto_2977.csv
-NEXT: 08 16 21 22 23 34 35
+NEXT: 08 x 21 y 23 z 35
 Izabrani domet interakcije: 1
 Izabrana regularizacija: 3.0
 Validacioni NLL: 16.54851786
@@ -1970,7 +1970,7 @@ Zbir uključnih verovatnoća: 7.000000000000
 Promena uključnih verovatnoća kroz kontekst: 2.064195e-04
 
 CSV: loto7_4710_k86_loto_plus_1733.csv
-NEXT: 02 07 08 11 23 26 34
+NEXT: 02 x 08 y 23 z 34
 Izabrani domet interakcije: 2
 Izabrana regularizacija: 3.0
 Validacioni NLL: 16.54899502
